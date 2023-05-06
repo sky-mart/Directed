@@ -5,6 +5,9 @@ Inspired by:
 - [Student project at Cornell](https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2012/tcj26_ecs227/tcj26_ecs227/index.html)
 - [Charles Grassin's pretty much the same project](https://charleslabs.fr/en/project-Acoustic+beamsteering+with+a+speaker+array)
 
+## Materials
+- [Audio Waves](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound)
+
 ## Basic idea
 
 We are going to play sound at 8 speakers simultaneously. Due to wave effects the sound will be amplified at normal direction and diminished to the sides.
